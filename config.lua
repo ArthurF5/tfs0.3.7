@@ -140,7 +140,7 @@
 	sqlPort = 3306
 	sqlUser = "root"
 	sqlPass = ""
-	sqlDatabase = "tfssvn_"
+	sqlDatabase = ""
 	sqlFile = "theforgottenserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
